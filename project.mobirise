@@ -39,7 +39,7 @@
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "siteUrl": "undefined",
     "versionFirst": "4.7.7",
-    "uniqCompNum": 94,
+    "uniqCompNum": 95,
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png"
   },
@@ -2799,13 +2799,13 @@
             "background-color": "@bgColor"
           },
           "_name": "content8",
-          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-black-outline\" href=\"page7.html\" data-app-placeholder=\"Type Text\">Aquatint / ets</a>\n                    <a class=\"btn btn-black-outline\" href=\"page8.html\" data-app-placeholder=\"Type Text\">Linosnede</a> <a class=\"btn btn-black-outline\" href=\"page1.html\" data-app-placeholder=\"Type Text\">Monotypes</a> <a class=\"btn btn-black-outline\" href=\"page10.html\" data-app-placeholder=\"Type Text\">Tekeningen</a> <a class=\"btn btn-black-outline\" href=\"page9.html\" data-app-placeholder=\"Type Text\">Objecten</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "r72wGZWLA9",
-          "_anchor": "content8-1n",
+          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"7\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-black-outline\" href=\"page7.html\" data-app-placeholder=\"Type Text\">Aquatint / ets</a>\n                    <a class=\"btn btn-black-outline\" href=\"page8.html\" data-app-placeholder=\"Type Text\">Linosnede</a> <a class=\"btn btn-black-outline\" href=\"page1.html\" data-app-placeholder=\"Type Text\">Monotypes</a> <a class=\"btn btn-black-outline\" href=\"page10.html\" data-app-placeholder=\"Type Text\">Tekeningen</a> <a class=\"btn btn-black-outline\" href=\"page9.html\" data-app-placeholder=\"Type Text\">Objecten</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "r7bUjNxGub",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {},
+          "_anchor": "content8-2m"
         },
         {
           "_styles": {
