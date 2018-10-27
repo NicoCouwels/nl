@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Nico Couwels 18-19",
-    "currentPage": "index.html",
+    "currentPage": "page9.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -5725,8 +5725,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/orginele-roller-1-met-metagegvens.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/orginele-roller-1-met-metagegvens-800x1132.jpg",
+                "image": "@PROJECT_PATH@/assets/images/verfroller-als-png.png",
+                "thumb": "@PROJECT_PATH@/assets/images/verfroller-als-png-800x1132.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -5829,8 +5829,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/lijnen-trekker-met-metagegevens.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/lijnen-trekker-met-metagegevens-800x495.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lijn-trekker-als-png.png",
+                "thumb": "@PROJECT_PATH@/assets/images/lijn-trekker-als-png-800x566.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
