@@ -1291,6 +1291,11 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+  .card-wrapper {
+    flex: auto!important;
+  }
+}
 .cid-r5cYvvx5xy {
   background-image: url("../../../assets/images/wit-300x188.png");
 }
@@ -5676,28 +5681,6 @@ body {
 .cid-r786KG13ou H3 {
   color: #000000;
 }
-.cid-r72Rr6JR3E {
-  padding-top: 45px;
-  padding-bottom: 90px;
-  background: linear-gradient(45deg, #ffffff, #ffffff);
-}
-@media (min-width: 992px) {
-  .cid-r72Rr6JR3E .mbr-figure {
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-r72Rr6JR3E .mbr-figure {
-    padding-top: 3rem;
-  }
-}
-.cid-r72Rr6JR3E .mbr-section-title {
-  color: #232323;
-}
-.cid-r72Rr6JR3E .mbr-text,
-.cid-r72Rr6JR3E .mbr-section-btn {
-  color: #232323;
-}
 .cid-r72Rr7zAIE .navbar {
   padding: .5rem 0;
   background: #333333;
@@ -6604,7 +6587,7 @@ body {
 }
 .cid-rarPWakr3V {
   padding-top: 0px;
-  padding-bottom: 60px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-rarPWakr3V h4 {
@@ -6620,6 +6603,26 @@ body {
   padding-top: 2rem;
 }
 .cid-rarPWakr3V .card-wrapper {
+  height: 100%;
+}
+.cid-rh30qmwxTw {
+  padding-top: 0px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rh30qmwxTw h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-rh30qmwxTw p {
+  color: #767676;
+  text-align: left;
+}
+.cid-rh30qmwxTw .card-box {
+  padding-top: 2rem;
+}
+.cid-rh30qmwxTw .card-wrapper {
   height: 100%;
 }
 .cid-r78OmRCAG6 {
@@ -6666,6 +6669,26 @@ body {
 }
 .cid-r78Q3eoWrX .card-box {
   padding-top: 2rem;
+}
+.cid-rh31flGgw3 {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-rh31flGgw3 h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-rh31flGgw3 p {
+  color: #767676;
+  text-align: left;
+}
+.cid-rh31flGgw3 .card-box {
+  padding-top: 2rem;
+}
+.cid-rh31flGgw3 .card-wrapper {
+  height: 100%;
 }
 .cid-r78OmVo4ia {
   padding-top: 30px;
