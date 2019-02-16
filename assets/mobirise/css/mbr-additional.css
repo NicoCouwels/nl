@@ -1679,9 +1679,14 @@ body {
     flex-shrink: 0;
   }
 }
-.cid-r5IInQVoX6 {
+.cid-rigmoFWv8Q {
   padding-top: 120px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-r5IInQVoX6 {
+  padding-top: 45px;
+  padding-bottom: 15px;
   background-image: url("../../../assets/images/wit.png");
 }
 .cid-r5IInQVoX6 .mbr-section-subtitle {
@@ -1800,7 +1805,7 @@ body {
 }
 .cid-r9PzL421IX {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 60px;
   background-image: url("../../../assets/images/wit-1-300x188.png");
 }
 .cid-r9PzL421IX .mbr-figure {
@@ -1815,6 +1820,34 @@ body {
 }
 .cid-r9PzL421IX H3 {
   color: #232323;
+}
+.cid-riglfzONYn {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-riglfzONYn .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rigldYtQfU {
+  padding-top: 0px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-rigldYtQfU h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-rigldYtQfU p {
+  color: #767676;
+  text-align: left;
+}
+.cid-rigldYtQfU .card-box {
+  padding-top: 2rem;
+}
+.cid-rigldYtQfU .card-wrapper {
+  height: 100%;
 }
 .cid-r5ICj9cRSN {
   padding-top: 30px;
@@ -4473,6 +4506,26 @@ body {
 .cid-r797f5MPBw H2 {
   color: #232323;
 }
+.cid-rigkgnnAOO {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-rigkgnnAOO h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-rigkgnnAOO p {
+  color: #767676;
+  text-align: left;
+}
+.cid-rigkgnnAOO .card-box {
+  padding-top: 2rem;
+}
+.cid-rigkgnnAOO .card-wrapper {
+  height: 100%;
+}
 .cid-r792koQH3t {
   padding-top: 15px;
   padding-bottom: 30px;
@@ -5139,9 +5192,37 @@ body {
 .cid-r5S7RkNSAN .card-wrapper {
   height: 100%;
 }
+.cid-righv7gLdt {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-righv7gLdt .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-riggvTy5uI {
+  padding-top: 15px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
+.cid-riggvTy5uI h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-riggvTy5uI p {
+  color: #767676;
+  text-align: left;
+}
+.cid-riggvTy5uI .card-box {
+  padding-top: 2rem;
+}
+.cid-riggvTy5uI .card-wrapper {
+  height: 100%;
+}
 .cid-r7GOFdYyqb {
   padding-top: 0px;
-  padding-bottom: 90px;
+  padding-bottom: 45px;
   background-color: #ffffff;
 }
 .cid-r7GOFdYyqb h4 {
