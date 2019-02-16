@@ -9346,7 +9346,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "13,5 cm x 10 cm",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
@@ -9360,6 +9360,97 @@
                 "customStyle1": "display-7",
                 "caption": "13,6 cm x 14,6 cm",
                 "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/drukmap-nr.4-als-png-met-metagegevens.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/drukmap-nr.4-als-png-met-metagegevens-800x1132.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "19,3 cm x 12,2 cm",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/drukmap-nr.5-als-png-met-metagegevens.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/drukmap-nr.5-als-png-met-metagegevens-800x1132.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "12,5 cm x 14,5 cm",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/drukmap-nr.6-als-png-met-metagegevens.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/drukmap-nr.6-als-png-met-metagegevens-800x1132.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "17,8 cm x 17,4 cm",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/drukmap-nr.7-als-png-met-metagegevens.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/drukmap-nr.7-als-png-met-metagegevens-800x1132.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "19 cm x 13,6 cm",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/drukmap-nr.8-als-png-met-metagegevens.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/drukmap-nr.8-als-png-met-metagegevens-800x1132.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "20 cm x 11 cm",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/drukmap-nr.9-als-png-met-metagegevens.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/drukmap-nr.9-als-png-met-metagegevens-800x1132.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "18,5 cm x 12 cm",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/drukmap-nr.10-als-png-met-metagegevens.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/drukmap-nr.10-als-png-met-metagegevens-800x1132.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "12,5 cm x 12,5 cm",
+                "active": true
               }
             ]
           }
