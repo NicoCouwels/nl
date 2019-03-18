@@ -1297,6 +1297,17 @@ body {
     flex: auto!important;
   }
 }
+.jq-selectbox li:hover,
+.jq-selectbox li.selected {
+  background-color: #149dcc;
+  color: #ffffff;
+}
+.jq-selectbox .jq-selectbox__trigger-arrow {
+  border-top-color: contrast(currentColor, #000000, #ffffff, 30%);
+}
+.jq-selectbox:hover .jq-selectbox__trigger-arrow {
+  border-top-color: #149dcc;
+}
 .cid-r5cYvvx5xy {
   background-image: url("../../../assets/images/hamster-blad-aquatint-met-metagegevens.jpg");
 }
@@ -5910,6 +5921,68 @@ body {
 .cid-r786KG13ou H3 {
   color: #000000;
 }
+.cid-rl0AN72HUS {
+  padding-top: 15px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
+.cid-rl0AN72HUS h2 {
+  text-align: left;
+}
+.cid-rl0AN72HUS h4 {
+  text-align: left;
+  font-weight: 500;
+}
+.cid-rl0AN72HUS p {
+  color: #767676;
+  text-align: left;
+}
+.cid-rl0AN72HUS .aside-content {
+  flex-basis: 100%;
+  -webkit-flex-basis: 100%;
+}
+.cid-rl0AN72HUS .block-content {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  word-break: break-word;
+}
+.cid-rl0AN72HUS .media {
+  margin: initial;
+  align-items: center;
+  -webkit-align-items: center;
+}
+.cid-rl0AN72HUS .mbr-figure {
+  align-self: flex-start;
+  -webkit-align-self: flex-start;
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+}
+.cid-rl0AN72HUS .card-img {
+  padding-right: 2rem;
+  width: auto;
+}
+.cid-rl0AN72HUS .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+@media (min-width: 992px) {
+  .cid-rl0AN72HUS .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rl0AN72HUS .mbr-figure {
+    padding-right: 0;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 300px) {
+  .cid-rl0AN72HUS .card-img span {
+    font-size: 40px !important;
+  }
+}
 .cid-r72Rr7zAIE .navbar {
   padding: .5rem 0;
   background: #333333;
@@ -6735,9 +6808,14 @@ body {
     flex-shrink: 0;
   }
 }
+.cid-rl3wCLQlYs {
+  padding-top: 90px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
 .cid-r78OmPYlXA {
-  padding-top: 120px;
-  padding-bottom: 15px;
+  padding-top: 60px;
+  padding-bottom: 0px;
   background-image: url("../../../assets/images/wit.png");
 }
 .cid-r78OmPYlXA H2 {
@@ -6796,6 +6874,50 @@ body {
 }
 .cid-rarSLlytfv .mbr-section-subtitle {
   color: #767676;
+}
+.cid-rl01qYJc4I {
+  background: #ffffff;
+  padding-top: 15px;
+  padding-bottom: 30px;
+}
+.cid-rl01qYJc4I .image-block {
+  margin: auto;
+}
+.cid-rl01qYJc4I figcaption {
+  position: relative;
+}
+.cid-rl01qYJc4I figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rl01qYJc4I .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rl02TcGK8U {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rl02TcGK8U .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rl02TcGK8U .section-text {
+  padding: 2rem 0;
+}
+.cid-rl02TcGK8U .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rl02TcGK8U .inner-container {
+    width: 100% !important;
+  }
 }
 .cid-r9PW6dMaiz {
   padding-top: 0px;
@@ -6859,7 +6981,7 @@ body {
 }
 .cid-rh606Yw9Cm {
   padding-top: 0px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-rh606Yw9Cm h4 {
@@ -6875,6 +6997,26 @@ body {
   padding-top: 2rem;
 }
 .cid-rh606Yw9Cm .card-wrapper {
+  height: 100%;
+}
+.cid-rl3uPV7hxr {
+  padding-top: 0px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rl3uPV7hxr h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-rl3uPV7hxr p {
+  color: #767676;
+  text-align: left;
+}
+.cid-rl3uPV7hxr .card-box {
+  padding-top: 2rem;
+}
+.cid-rl3uPV7hxr .card-wrapper {
   height: 100%;
 }
 .cid-r78OmRCAG6 {
